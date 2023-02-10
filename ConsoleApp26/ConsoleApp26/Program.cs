@@ -38,7 +38,7 @@ public class Program
     static void addProducts()
     {
         products.Add(new Product("Колбаса","Черкизово",350,31,200));
-        products.Add(new Product("Молоко", "ЭкоНива", 100, 20, 387));
+        products.Add(new Product("Пиво", "ЭкоНива", 100, 20, 387));
         products.Add(new Product("Хлеб", "Хлебозовод", 50, 15, 450));
     }
     
